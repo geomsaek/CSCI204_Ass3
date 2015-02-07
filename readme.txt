@@ -1,3 +1,3 @@
 Date Modified: 4th June 2014
 
-Contains updated iterator function definitions that are outside of the OrderedList, Iterator class function
+All function definitions for the OrderedList class and nested Iterator class have been moved out of the main class prototype
